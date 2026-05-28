@@ -31,7 +31,7 @@ institutionellen Druck substanziell oder nur symbolisch reagieren.
 - Zeitraum: Sep 2026 – Jan 2027
 
 ## How to Reproduce
-git clone https://github.com/kramerannaa/sme-internationalization
+git clone https://github.com/kramerannaa/kmu-green-logistics
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 task all
