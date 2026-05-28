@@ -81,3 +81,25 @@ git clone https://github.com/kramerannaa/kmu-green-logistics
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 task all
+
+## Data Provenance
+| Item | Detail |
+|------|--------|
+| Source | WRDS / Compustat Global |
+| Table | comp_global_daily.g_funda |
+| Downloaded | 2026-05-28 |
+| License | WRDS subscriber agreement |
+| Fiscal years | 2015-2024 |
+| Raw rows | 338,462 |
+| Clean rows | 26,090 |
+
+## Data Provenance
+| Item | Detail |
+|------|--------|
+| Source | WRDS / Compustat Global |
+| Table | comp_global_daily.g_funda |
+| Downloaded | 2026-05-28 |
+| License | WRDS subscriber agreement |
+| Fiscal years | 2015-2024 |
+| Raw rows | 338,462 |
+| Clean rows | 26,090 |
