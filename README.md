@@ -92,14 +92,3 @@ task all
 | Fiscal years | 2015-2024 |
 | Raw rows | 338,462 |
 | Clean rows | 26,090 |
-
-## Data Provenance
-| Item | Detail |
-|------|--------|
-| Source | WRDS / Compustat Global |
-| Table | comp_global_daily.g_funda |
-| Downloaded | 2026-05-28 |
-| License | WRDS subscriber agreement |
-| Fiscal years | 2015-2024 |
-| Raw rows | 338,462 |
-| Clean rows | 26,090 |
